@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "YouTube Search",
+  "description": "Youtube search by right click",
+  "version": "1.0",
+  "permissions": [
+    "contextMenus",
+    "tabs"
+  ],
+  "icons": {
+    "144": "youtube.png"
+  },
+  "background": {
+    "scripts": [
+      "search.js"
+    ]
+  }
+}
