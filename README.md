@@ -4,10 +4,11 @@ Search the selected text by searching YouTube.
 - Chrome
 
 ##Install
-1. Go to the chrome extension page.
-2. Ensure that the Developer mode checkbox.
-3. Click Load unpacked extension.
-4. Navigate to the directory in which your extension files live, and select it.
+1. Clone these files.
+2. Go to the chrome extension page.
+3. Ensure that the Developer mode checkbox.
+4. Click Load unpacked extension.
+5. Navigate to the directory in which your extension files live, and select it.
 
 Please visit https://developer.chrome.com/extensions/getstarted#unpacked for more detail.
 
